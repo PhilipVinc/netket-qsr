@@ -17,6 +17,7 @@ from typing import Optional, Tuple, Callable
 
 import numpy as np
 
+import jax
 from jax import numpy as jnp
 
 from netket.utils.types import PyTree, Scalar
